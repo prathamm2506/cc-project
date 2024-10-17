@@ -8,7 +8,7 @@ export default function FindRoommatesContent() {
     return (
         <section className="find-roommates-content mt-5">
         <Container>
-        <h3 className="my-4">Find Roommates in Shared Rooms</h3>
+        <h3 className="my-4">FIND ROOMMATES IN SHARED ROOMS</h3>
             <Row>
         <Col sm={12} md={4} lg={4}>
           <Card className="find-roommates-content-cards text-dark mt-3">

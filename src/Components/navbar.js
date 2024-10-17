@@ -11,7 +11,7 @@ import { faUserCircle } from '@fortawesome/free-solid-svg-icons'
 import firebase from 'firebase'
 import { Container } from 'react-bootstrap';
 
-export default function NavigationBar({companyName="DevBud"}) {
+export default function NavigationBar({companyName="URBAN NEST"}) {
 
     //Authstate
     const [authState, setAuthState ] = useState(null);

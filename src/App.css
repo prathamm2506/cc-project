@@ -16,9 +16,10 @@ h2 {
 }
 
 .brand-name {
-  font-family: "Lobster", cursive;
+  /* font-family: "Lobster", cursive; */
   font-size: 30px;
   letter-spacing: 2px;
+  margin-right: 5rem;
 }
 
 /* .hero-section {
@@ -37,7 +38,8 @@ h2 {
 
 .navbar {
   font-family: "Roboto", sans-serif;
-  font-weight: 540;
+  font-weight: 300;
+  font-size: 1rem;
 }
 /* navbar menu toogle sm */
 @media only screen and (max-width: 600px) {

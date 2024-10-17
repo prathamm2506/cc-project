@@ -102,8 +102,8 @@ export default function MyListings() {
   <div className="sk-cube sk-cube9"></div>
 </div> : ""}
 
-    <div className="featured-section">
-    {listingsCheck== true ?  <h2 className="text-center p-2 mt-4">Featured Homes</h2> : ""}
+    <div className="featured-section pt-8">
+    {listingsCheck== true ?  <h2 className="text-center p-4 mt-4">FEATURED HOMES</h2> : ""}
      
       <Container>
         <Row>

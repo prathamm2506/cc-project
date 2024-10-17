@@ -19,7 +19,7 @@ export default function hero_section() {
 <Row>
 
 <Col lg={6} md={12} sm={12} className="d-flex flex-column justify-content-center mt-5">
-<h1 className="text-light mt-5 hero-text">Find Homes & Let-out Your Home Easily</h1>
+<h1 className="text-light mt-5 hero-text">FIND HOMES & LET - OUT YOUR HOME EASILY</h1>
 </Col>
 
 <Col lg={6} md={12} sm={12}>

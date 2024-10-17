@@ -9,7 +9,7 @@ export default function CategoriesSection() {
   return (
     <div>
       <Container>
-      <h2 className="mt-4">Live Anywhere</h2>
+      <h2 className="mt-4">LIVE ANYWHERE</h2>
       <p className="heading-p">EXPLORE OUR SELECTION OF THE BEST PLACES</p>
     
         <Row className="mt-5">
